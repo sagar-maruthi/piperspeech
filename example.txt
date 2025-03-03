@@ -1,0 +1,9 @@
+Welcome to PiperSpeech! This is a sample text file that demonstrates the text-to-speech conversion capabilities of this tool. The text will be converted to natural-sounding speech using the Piper TTS system.
+
+This tool can handle various types of text, including:
+- Short sentences
+- Long paragraphs
+- Multiple paragraphs with punctuation
+- And even some basic formatting!
+
+Feel free to replace this text with your own content and experiment with different voice models available in Piper TTS.
