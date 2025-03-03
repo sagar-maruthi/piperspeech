@@ -20,7 +20,7 @@ A simple command-line tool to convert text to natural-sounding speech using the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/piperspeech.git
+   git clone https://github.com/sagar-maruthi/piperspeech.git
    cd piperspeech
    ```
 
